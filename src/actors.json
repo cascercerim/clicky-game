@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Grey",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Greys-Anatomy-Season-7-Promo-9.jpg"
+    },
+    { 
+        "id": 2,
+        "name": "Alex",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Dr._Alex_Karev.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Avery",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Jesse-williams-greys.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bailey",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Dr._Miranda_Bailey.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mcsteamy",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Dr._Mark_Sloan.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hunt",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Dr._Owen_Hunt.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Izzie",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/Dr._Isobel_Stevens.jpg"
+    },
+    {
+        "id": 8,
+        "name": "George",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/T.R._Knight_as_George_O%27Malley.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Shepherd2",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Amelia_s11.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mcdreamy",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Dr._Derek_Shepherd.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pierce",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/MaggiePierce.jpg"
+    },
+    { 
+        "id": 12,
+        "name": "Webber",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Dr._Richard_Webber.jpg"
+    }
+]
